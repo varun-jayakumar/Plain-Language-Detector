@@ -1,0 +1,18 @@
+{
+  "name": "language-detector",
+  "version": "1.0.0",
+  "description": "A application to detect language",
+  "main": "\u001b[D\u001b[D\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[B"
+  },
+  "author": "Varun Bharathi",
+  "license": "ISC",
+  "dependencies": {
+    "languagedetect": "^2.0.0"
+  }
+}
