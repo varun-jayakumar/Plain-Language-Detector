@@ -7,6 +7,10 @@ web Application to detect Language based on user input. Leverages [languagedetec
 - fork the project
 - use an extention like LiveServer to serve the webpage
 
-## Screenshots
+## Screenshot
 
-![mainPage](https://github.com/varun-jayakumar/Plain-Language-Detector/blob/screenshots/mainpage.jpg?raw=true)
+![mainPage](https://github.com/varun-jayakumar/Plain-Language-Detector/blob/main/screenshots/mainpage.jpg?raw=true)
+
+Thanks for Reading!
+
+> written by Varun Jayakumar
