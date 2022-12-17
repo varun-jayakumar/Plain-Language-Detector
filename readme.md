@@ -5,7 +5,7 @@ web Application to detect Language based on user input. Leverages [languagedetec
 ## Instructions to Run the project
 
 - fork the project
-- use an extention like LiveServer to serve the webpage
+- use an extention like LiveServer to serve the webpage from build folder
 
 ## Screenshot
 
